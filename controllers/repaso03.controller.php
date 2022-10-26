@@ -10,7 +10,8 @@ if(isset($_POST['enviar'])){
 }
 
 function isOk(string $texto) : bool{
-    $numeroAnterior = 0;
+    $numeroAnterior = 0; 
+    //
     $numeroInterrogantes = 0;
     for($i = 0; $i < strlen($texto); $i++){
         $letra = $texto[$i];
