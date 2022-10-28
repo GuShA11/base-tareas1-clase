@@ -6,7 +6,9 @@
             <file>file:/home/grodben/www-host/base-tareas/views/repaso03.view.php</file>
             <file>file:/home/grodben/www-host/base-tareas/controllers/iterativas07.controller.php</file>
             <file>file:/home/grodben/www-host/base-tareas/controllers/repaso03.controller.php</file>
+            <file>file:/home/grodben/www-host/base-tareas/index.php</file>
             <file>file:/home/grodben/www-host/base-tareas/views/iterativas08.view.php</file>
+            <file>file:/home/grodben/www-host/base-tareas/controllers/clases01.controller.php</file>
             <file>file:/home/grodben/www-host/base-tareas/controllers/iterativas05.controller.php</file>
             <file>file:/home/grodben/www-host/base-tareas/views/iterativas07.view.php</file>
             <file>file:/home/grodben/www-host/base-tareas/controllers/repaso01.controller.php</file>
@@ -14,8 +16,10 @@
             <file>file:/home/grodben/www-host/base-tareas/controllers/iterativas08.controller.php</file>
             <file>file:/home/grodben/www-host/base-tareas/controllers/iterativas06.controller.php</file>
             <file>file:/home/grodben/www-host/base-tareas/views/iterativas06.view.php</file>
+            <file>file:/home/grodben/www-host/base-tareas/controllers/helpers/Proveedor.php</file>
             <file>file:/home/grodben/www-host/base-tareas/views/repaso01.view.php</file>
             <file>file:/home/grodben/www-host/base-tareas/controllers/repaso02.controller.php</file>
+            <file>file:/home/grodben/www-host/base-tareas/controllers/helpers/Categoria.php</file>
             <file>file:/home/grodben/www-host/base-tareas/views/iterativas05.view.php</file>
         </group>
     </open-files>
